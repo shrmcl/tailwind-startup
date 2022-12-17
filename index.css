@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace&display=swap');
+#brand-icon {
+    height: 2em;
+    display: inline-block;
+}
+h1 {
+    font-family: 'Trispace', sans-serif;
+}
